@@ -1,2 +1,6 @@
 # Selenium-ALL
-trying selenium for the first time
+
+Added Code for Automation of Some website's login
+
+PREREQUISITES:
+Install chromedriver.exe for the code to run.
