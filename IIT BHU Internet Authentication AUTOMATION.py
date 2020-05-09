@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-user_name = "18065058"
-password = "Rishu@1472000"
+user_name = "type your roll no."
+password = "type password"
 driver = webdriver.Chrome()
 driver.get("http://www.msftconnecttest.com/redirect")
 element = driver.find_element_by_id("ft_un")
